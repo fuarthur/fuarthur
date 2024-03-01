@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **artcgb01@gmail.com**
 
-- ⚡ Fun fact **I am also a outdoor activity enthusiast, especially hiking.**
+- ⚡ Fun fact **I am also an outdoor activity enthusiast, especially hiking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
