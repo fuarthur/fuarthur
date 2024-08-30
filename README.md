@@ -7,13 +7,7 @@
 
 - 🔭 I’m currently working on [My website](https://github.com/fuarthur/fuarthur.github.io)
 
-- 🌱 I’m currently learning **Minecraft Mods develop(Fabric loader)**
-
-- 👯 I’m looking to collaborate on [TimeSync_EduAlert](https://github.com/fuarthur/TimeSync_EduAlert)
-
-- 🤝 I’m looking for help with [TimeSync_EduAlert](https://github.com/fuarthur/TimeSync_EduAlert)
-
-- 💬 Ask me about **Python3**
+- 🌱 I’m currently learning **Android Application development**
 
 - 📫 How to reach me **artcgb01@gmail.com**
 
