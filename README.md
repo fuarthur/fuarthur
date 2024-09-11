@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuarthur" alt="fuarthur" /></a> </p>
 
-- 🔭 I’m currently working on [My website](https://github.com/fuarthur/fuarthur.github.io)
+- 🔭 I’m currently working on [TimeSync EduAlert_V2](https://github.com/fuarthur/TimeSync_EduAlert_V2)
 
 - 🌱 I’m currently learning **Android Application development**
 
