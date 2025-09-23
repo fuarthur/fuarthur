@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arthur Fu</h1>
-<h3 align="center">A lifelong learner and coder from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuarthur&label=Profile%20views&color=0e75b6&style=flat" alt="fuarthur" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🔭 I’m currently working on [TimeSync EduAlert_V2](https://github.com/fuarthur/TimeSync_EduAlert_V2)
 
-- 🌱 I’m currently learning **Android Application development**
+- 🌱 I’m currently learning **Data structure**
 
 - 📫 How to reach me **artcgb01@gmail.com**
 
