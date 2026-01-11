@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuarthur&label=Profile%20views&color=0e75b6&style=flat" alt="fuarthur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuarthur" alt="fuarthur" /></a> </p>
-
 - 🔭 I’m currently working on [TimeSync EduAlert_V2](https://github.com/fuarthur/TimeSync_EduAlert_V2)
 
-- 🌱 I’m currently learning **Data structure**
+- 🌱 I’m currently learning **LLM**
 
 - 📫 How to reach me **artcgb01@gmail.com**
 
