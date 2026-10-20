@@ -18,15 +18,17 @@ A Chrome extension that brings assignment tracking, workload visualization, and 
 
 **Built with:** JavaScript, Chrome Extension APIs, Canvas REST APIs, Node.js, esbuild, jsdom.
 
-### [OtherWise](https://github.com/RoboticReaper/OtherWise)
-A collaborative Chrome extension and FastAPI project for discovering topics beyond familiar interests.
+### [OtherWise](https://github.com/fuarthur/otherwise-clients)
+A collaborative topic-discovery project with a Chrome extension client and a FastAPI backend.
 
-- Semantic recommendations using local embeddings, novelty ranges, and diversity controls.
+- Semantic recommendations through the backend, with novelty ranges and diversity controls.
 - Interactive topic maps with search, filters, and nearest-topic exploration.
 - Local browsing-history processing, with user approval before inferred interests are saved.
 
+**Source availability:** The extension and browser frontend are open source under GPLv3. The backend service and recommendation engine are currently private. Live recommendations require a separately operated compatible service.
+
 **Built with:** Python, FastAPI, NumPy, Sentence Transformers, JavaScript, UMAP.  
-[Project website](https://roboticreaper.github.io/OtherWise/)
+[Extension setup](https://github.com/fuarthur/otherwise-clients#build-and-install)
 
 ### [TimeSync EduAlert V2](https://github.com/fuarthur/TimeSync_EduAlert_V2)
 An Android schedule-management app that I independently redesigned and rebuilt with Kotlin.
